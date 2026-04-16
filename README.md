@@ -12,8 +12,8 @@
 - DSA (Basics)
 
 ## Projects
-- Smart Attendance Management System
-- Simple Banking Application
+- [Smart Attendance Management System](https://github.com/alokguptaa14/Smart-Attendance-Management-System)
+- [Simple Banking Application](https://github.com/alokguptaa14/Simple-Banking-Application)
 
 ## Goals
 - Improve problem solving skills
