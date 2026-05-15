@@ -15,6 +15,7 @@
 - [Smart Attendance Management System](https://github.com/alokguptaa14/Smart-Attendance-Management-System)
 - [Simple Banking Application](https://github.com/alokguptaa14/Simple-Banking-Application)
 - [Travel Website Project](https://github.com/alokguptaa14/Travel-Website-Project)
+- [Real Time Facial Emotion Detection System](https://github.com/alokguptaa14/facial-emotion-detection)
 
 ## Goals
 - Improve problem solving skills
