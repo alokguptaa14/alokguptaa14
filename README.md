@@ -39,5 +39,5 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/alok-gupta-421788283
+- LinkedIn: https://https://www.linkedin.com/in/alokgupta14
 - GitHub: https://github.com/alokguptaa14
