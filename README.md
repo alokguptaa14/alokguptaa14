@@ -1,7 +1,7 @@
 # Hi 👋 I'm Alok Gupta
 
 🎓 B.Tech in Computer Science & Engineering (AI & ML)
-💻 Full Stack Developer
+💻 Aspiring Full Stack Developer
 📚 Learning Data Structures & Algorithms in C++
 
 ## 🚀 Skills
@@ -18,15 +18,15 @@
 
 ## 💼 Projects
 
-- [Real-Time Facial Emotion Detection System](https://github.com/alokguptaa14/Real-Time-Facial-Emotion-Detection-System)
-- [Simple Banking Application](https://github.com/alokguptaa14/Simple-Banking-Application)
-- [Travel Website Project](https://github.com/alokguptaa14/Travel-Website-Project)
+- Real-Time Facial Emotion Detection System
+- Simple Banking Application
+- Travel Website Project
 
 ## 🎯 Currently Learning
 
-- Advanced React
 - Express.js
 - MongoDB
+- Advanced React
 - Full Stack Development
 - Data Structures & Algorithms
 
